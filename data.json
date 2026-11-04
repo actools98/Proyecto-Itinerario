@@ -1,0 +1,490 @@
+{
+ "fx": {
+  "COP": 3182.99,
+  "GTQ": 7.65,
+  "fecha": "3 nov 2026",
+  "nota": "TRM del Banco de la República. El quetzal es una cifra aproximada, no verificada."
+ },
+ "ruta": [
+  {
+   "d": "1 · lun 4 ene",
+   "l": "Antigua",
+   "t": "Llegada y primera noche",
+   "x": "Aeropuerto La Aurora y shuttle a Antigua (unas 2 h con tráfico). Cerro de la Cruz al atardecer.",
+   "tip": "Reserva ya el trek de Acatenango."
+  },
+  {
+   "d": "2 · mar 5",
+   "l": "Acatenango",
+   "t": "Subida y campamento",
+   "x": "4 a 6 h de ascenso. Noche en el campamento base.",
+   "tip": "El Fuego se cerró en agosto de 2026 y Acatenango reabrió el 7 de agosto. Pide plan de reprogramación.",
+   "w": 1
+  },
+  {
+   "d": "3 · mié 6",
+   "l": "Atitlán",
+   "t": "Cima y traslado al lago",
+   "x": "Amanecer a 3.976 m, bajada y shuttle de unas 3 h a Panajachel.",
+   "tip": "Duerme en Panajachel: el shuttle a Lanquín sale a las 07:30."
+  },
+  {
+   "d": "4 · jue 7",
+   "l": "Atitlán",
+   "t": "San Juan, San Pablo, San Pedro",
+   "x": "Lancha entre pueblos, textiles y mirador. Tarde de kayak.",
+   "tip": "Lancha San Pedro–Pana: unos Q25. Casi nadie acepta tarjeta."
+  },
+  {
+   "d": "5 · vie 8",
+   "l": "Lanquín",
+   "t": "Viaje largo a Lanquín",
+   "x": "9 a 10 h por Alta Verapaz.",
+   "tip": "Confirma el horario del shuttle directo.",
+   "w": 1
+  },
+  {
+   "d": "6 · sáb 9",
+   "l": "Semuc Champey",
+   "t": "Pozas y cuevas",
+   "x": "Mirador, pozas turquesas y cuevas de K’anba.",
+   "tip": "Entrada Q50 a 100 según la fuente. Madruga."
+  },
+  {
+   "d": "7 · dom 10",
+   "l": "Flores",
+   "t": "Lanquín a Flores",
+   "x": "Shuttle de unas 8 h (sale 08:00). Atardecer en el malecón.",
+   "tip": ""
+  },
+  {
+   "d": "8 · lun 11",
+   "l": "Flores",
+   "t": "Lago Petén Itzá",
+   "x": "Lancha, saltos al agua o El Remate.",
+   "tip": ""
+  },
+  {
+   "d": "9 · mar 12",
+   "l": "Tikal",
+   "t": "Parque Nacional Tikal",
+   "x": "Gran Plaza, templos I, II y IV con guía.",
+   "tip": "Entrada Q150. El amanecer cuesta Q100 más."
+  },
+  {
+   "d": "10 · mié 13",
+   "l": "Antigua",
+   "t": "Vuelo Flores–Guate",
+   "x": "Vuelo de 1 h y shuttle a Antigua. Mejor que dormir junto al aeropuerto.",
+   "tip": "TAG permite unas 20 lb de equipaje. Revisa la política.",
+   "w": 1
+  },
+  {
+   "d": "11 · jue 14",
+   "l": "Antigua",
+   "t": "Día de margen",
+   "x": "Café, fincas o Pacaya.",
+   "tip": "Amortigua imprevistos antes del vuelo."
+  },
+  {
+   "d": "12 · vie 15",
+   "l": "Cali",
+   "t": "Regreso",
+   "x": "Elige vuelo de mediodía o tarde.",
+   "tip": "Antigua–aeropuerto: deja más de 3 h de margen."
+  }
+ ],
+ "hoteles": [
+  {
+   "c": "Antigua",
+   "n": 3,
+   "opts": [
+    {
+     "k": "Hostal",
+     "nm": "Central Hostel",
+     "u": 11,
+     "pp": 1,
+     "r": "",
+     "nt": "Dormitorio por persona. Rango reportado: US$11 a 25."
+    },
+    {
+     "k": "Bajo",
+     "nm": "Hotel Casa Carmina",
+     "u": 47,
+     "r": "8,8",
+     "nt": "US$47 a 62 según fechas. Cuatro estrellas."
+    },
+    {
+     "k": "Medio",
+     "nm": "Posada de Don Rodrigo",
+     "u": 165,
+     "r": "9,4",
+     "nt": "US$161 a 182. Centro histórico, jardín y restaurante."
+    },
+    {
+     "k": "Alto",
+     "nm": "Hotel Museo Spa Casa Santo Domingo",
+     "u": 220,
+     "r": "9,2",
+     "nt": "US$198 a 249. Spa, piscina y museo. En enero de 2026 llegó a US$248."
+    }
+   ],
+   "in": "2027-01-04",
+   "out": "2027-01-05",
+   "q": "Antigua Guatemala",
+   "in2": "2027-01-13",
+   "out2": "2027-01-15"
+  },
+  {
+   "c": "Lago Atitlán",
+   "n": 2,
+   "opts": [
+    {
+     "k": "Hostal",
+     "nm": "Hostel Zoola (San Pedro)",
+     "u": 15,
+     "pp": 1,
+     "r": "",
+     "nt": "Dormitorio por persona. Rango: US$15 a 22."
+    },
+    {
+     "k": "Bajo",
+     "nm": "Mikaso Hotel (San Pedro)",
+     "u": 40,
+     "r": "8,6",
+     "nt": "Está en San Pedro: no sirve si sales a las 07:30 de Pana."
+    },
+    {
+     "k": "Medio",
+     "nm": "Porta Hotel del Lago (Panajachel)",
+     "u": 121,
+     "r": "",
+     "nt": "US$121 a 148 con impuestos. Cerca de los shuttles."
+    },
+    {
+     "k": "Alto",
+     "nm": "Casa Palopó (Santa Catarina)",
+     "u": 257,
+     "r": "9,2",
+     "nt": "US$257 a 469. Relais & Châteaux. Lejos del muelle de Pana."
+    }
+   ],
+   "in": "2027-01-06",
+   "out": "2027-01-08",
+   "q": "Lago Atitlán"
+  },
+  {
+   "c": "Lanquín / Semuc",
+   "n": 2,
+   "opts": [
+    {
+     "k": "Hostal",
+     "nm": "Zephyr River Lodge (dormitorio)",
+     "u": 19,
+     "pp": 1,
+     "r": "",
+     "nt": "Dormitorio por persona. Reportan hasta US$28."
+    },
+    {
+     "k": "Bajo",
+     "nm": "Zephyr River Lodge (privada)",
+     "u": 27,
+     "r": "",
+     "nt": "Hay habitación familiar de unos US$127. Confirma el tipo."
+    },
+    {
+     "k": "Medio",
+     "nm": "El Retiro Lodge",
+     "u": 83,
+     "r": "8,5",
+     "nt": "Sobre el río, con tours. Está a unos 15 km de Semuc."
+    },
+    {
+     "k": "Alto",
+     "nm": "Hotel El Recreo Lanquín-Champey",
+     "u": 95,
+     "r": "",
+     "nt": "US$75 a 96. No encontré hotel de lujo verificado en la zona."
+    }
+   ],
+   "in": "2027-01-08",
+   "out": "2027-01-10",
+   "q": "Lanquín"
+  },
+  {
+   "c": "Flores",
+   "n": 3,
+   "opts": [
+    {
+     "k": "Hostal",
+     "nm": "Los Amigos Hostel",
+     "u": 14,
+     "pp": 1,
+     "r": "8,9",
+     "nt": "Dormitorio por persona (€10 a 15)."
+    },
+    {
+     "k": "Bajo",
+     "nm": "Hotel del Patio",
+     "u": 44,
+     "r": "8,6",
+     "nt": "US$41 a 55. Cerca del aeropuerto."
+    },
+    {
+     "k": "Medio",
+     "nm": "Hotel Casona de la Isla",
+     "u": 85,
+     "r": "8,8",
+     "nt": "US$81 a 100. En la isla, con piscina."
+    },
+    {
+     "k": "Alto",
+     "nm": "Isla de Flores Hotel",
+     "u": 110,
+     "r": "9,4",
+     "nt": "US$99 a 130. Hay opciones más caras (Camino Real Tikal) sin precio verificado."
+    }
+   ],
+   "in": "2027-01-10",
+   "out": "2027-01-13",
+   "q": "Flores Guatemala"
+  }
+ ],
+ "fijos": [
+  {
+   "l": "Vuelo Cali–Guatemala (ida y vuelta, 1 escala)",
+   "cop": 1550000,
+   "nt": "Rango visto: 1,35 a 1,65 millones COP."
+  },
+  {
+   "l": "Vuelo Flores–Guatemala",
+   "usd": 100,
+   "nt": "US$80 a 120 por tramo."
+  },
+  {
+   "l": "Shuttles terrestres",
+   "usd": 120,
+   "nt": "Antigua–Pana, Pana–Lanquín, Lanquín–Flores."
+  },
+  {
+   "l": "Acatenango (trek base y entrada)",
+   "usd": 140,
+   "nt": "Sin el extra del Fuego."
+  },
+  {
+   "l": "Entradas y tours (Tikal, Semuc, cuevas)",
+   "usd": 90,
+   "nt": ""
+  },
+  {
+   "l": "Comida (12 días)",
+   "usd": 270,
+   "nt": "Cerca de US$22 al día."
+  },
+  {
+   "l": "Seguro de viaje",
+   "usd": 40,
+   "nt": ""
+  },
+  {
+   "l": "Lanchas, actividades e imprevistos",
+   "usd": 90,
+   "nt": ""
+  }
+ ],
+ "alertas": [
+  {
+   "w": 1,
+   "t": "EE. UU.: nivel 3, reconsiderar viaje",
+   "x": "Aviso vigente del 12 de marzo de 2026, por crimen y terrorismo. El nivel 4 aplica solo a el departamento de San Marcos, el de Huehuetenango, la zona 18 de Ciudad de Guatemala y Villa Nueva. Ninguno está en la ruta. San Marcos La Laguna (Atitlán) es otro lugar, en Sololá."
+  },
+  {
+   "w": 1,
+   "t": "Estado de sitio en enero de 2026",
+   "x": "Hubo ataques coordinados contra la policía en Ciudad de Guatemala. Revisa el estado actual antes de salir."
+  },
+  {
+   "w": 1,
+   "t": "Volcán de Fuego",
+   "x": "Nueva fase eruptiva desde el 3 de agosto de 2026. Acatenango reabrió el 7 de agosto, pero subir al Fuego no está garantizado."
+  },
+  {
+   "t": "Policía turística",
+   "x": "Marca 1500 o escribe por WhatsApp al +502 5188 1819. ASISTUR acompaña en Antigua, Atitlán y Tikal."
+  },
+  {
+   "t": "Vacuna de fiebre amarilla",
+   "x": "Colombia figura entre los países de riesgo de la OMS, así que conviene llevar el certificado. Aplícala al menos 10 días antes."
+  },
+  {
+   "t": "Malaria",
+   "x": "Consulta a un médico de viajes sobre profilaxis para Petén y Alta Verapaz."
+  },
+  {
+   "t": "Ingreso",
+   "x": "Los colombianos no necesitan visa de turismo según la lista de la Cancillería. Lleva tiquete de salida, reserva de hospedaje y prueba de solvencia. Llena la declaración jurada regional."
+  },
+  {
+   "t": "Consejos prácticos",
+   "x": "Usa transporte turístico, evita viajar de noche por carretera, lleva efectivo en quetzales y no exhibas objetos de valor."
+  }
+ ],
+ "lugares": [
+  {
+   "id": "gua",
+   "n": "Aeropuerto La Aurora",
+   "lat": 14.5833,
+   "lng": -90.5275,
+   "dia": "Días 1 y 12"
+  },
+  {
+   "id": "antigua",
+   "n": "Antigua Guatemala",
+   "wiki": "Antigua_Guatemala",
+   "lat": 14.5586,
+   "lng": -90.7346,
+   "dia": "Días 1, 10 y 11",
+   "x": "Ciudad colonial entre volcanes: Calle del Arco y Cerro de la Cruz."
+  },
+  {
+   "id": "acatenango",
+   "n": "Volcán de Acatenango",
+   "wiki": "Acatenango",
+   "lat": 14.5014,
+   "lng": -90.8758,
+   "dia": "Días 2 y 3",
+   "x": "Cima a 3.976 m, con vista al Volcán de Fuego."
+  },
+  {
+   "id": "pana",
+   "n": "Panajachel",
+   "lat": 14.7406,
+   "lng": -91.158,
+   "dia": "Días 3 a 5"
+  },
+  {
+   "id": "atitlan",
+   "n": "Lago Atitlán",
+   "wiki": "Lake_Atitlán",
+   "lat": 14.6928,
+   "lng": -91.268,
+   "dia": "Días 3 a 5",
+   "x": "Pueblos mayas a la orilla, que se recorren en lancha."
+  },
+  {
+   "id": "lanquin",
+   "n": "Lanquín",
+   "lat": 15.5667,
+   "lng": -89.9833,
+   "dia": "Días 5 a 7"
+  },
+  {
+   "id": "semuc",
+   "n": "Semuc Champey",
+   "wiki": "Semuc_Champey",
+   "lat": 15.7833,
+   "lng": -89.9569,
+   "dia": "Día 6",
+   "x": "Pozas turquesas sobre el río Cahabón."
+  },
+  {
+   "id": "flores",
+   "n": "Isla de Flores",
+   "wiki": "Flores,_Guatemala",
+   "lat": 16.9306,
+   "lng": -89.8908,
+   "dia": "Días 7 a 10",
+   "x": "Isla colonial en el lago Petén Itzá."
+  },
+  {
+   "id": "tikal",
+   "n": "Parque Nacional Tikal",
+   "wiki": "Tikal",
+   "lat": 17.222,
+   "lng": -89.6237,
+   "dia": "Día 9",
+   "x": "Templos mayas entre la selva."
+  }
+ ],
+ "trazo": {
+  "tierra": [
+   "gua",
+   "antigua",
+   "acatenango",
+   "pana",
+   "atitlan",
+   "lanquin",
+   "semuc",
+   "flores",
+   "tikal"
+  ],
+  "aire": [
+   [
+    "flores",
+    "gua"
+   ]
+  ]
+ },
+ "reservas": {
+  "vuelos": [
+   {
+    "t": "Cali a Ciudad de Guatemala (ida 4 ene, regreso 15 ene)",
+    "l": [
+     {
+      "n": "Google Flights",
+      "u": "https://www.google.com/travel/flights?q=Flights%20from%20CLO%20to%20GUA%20on%202027-01-04%20through%202027-01-15"
+     },
+     {
+      "n": "Skyscanner",
+      "u": "https://www.skyscanner.com.co/transporte/vuelos/clo/gua/270104/270115/"
+     },
+     {
+      "n": "Kayak",
+      "u": "https://www.kayak.com.co/flights/CLO-GUA/2027-01-04/2027-01-15"
+     }
+    ]
+   },
+   {
+    "t": "Flores a Ciudad de Guatemala (13 ene)",
+    "l": [
+     {
+      "n": "Google Flights",
+      "u": "https://www.google.com/travel/flights?q=Flights%20from%20FRS%20to%20GUA%20on%202027-01-13"
+     },
+     {
+      "n": "Kayak",
+      "u": "https://www.kayak.com.co/flights/FRS-GUA/2027-01-13"
+     },
+     {
+      "n": "Guía de TAG Airlines",
+      "u": "https://livinginguatemala.com/es/transporte/tag-airlines-vuelos-nacionales/"
+     }
+    ]
+   }
+  ],
+  "shuttles": [
+   {
+    "t": "Antigua a Lago Atitlán",
+    "u": "https://livinginguatemala.com/es/transporte/antigua-a-lago-atitlan/"
+   },
+   {
+    "t": "Lago Atitlán a Semuc Champey y Lanquín",
+    "u": "https://livinginguatemala.com/es/transporte/lago-atitlan-a-semuc-champey/"
+   },
+   {
+    "t": "Flores a Lanquín (ruta inversa, sirve de referencia)",
+    "u": "https://turisteando.wetravel.com/trips/shuttle-from-flores-peten-to-lanquin-turisteando-9037567759"
+   },
+   {
+    "t": "Lago Atitlán a Flores y Tikal",
+    "u": "https://livinginguatemala.com/es/transporte/lago-atitlan-a-flores-tikal/"
+   }
+  ],
+  "tours": [
+   {
+    "t": "Buscar agencias de Acatenango (Wicho & Charlie's, Tropicana)",
+    "u": "https://www.google.com/search?q=Acatenango+overnight+tour+Wicho+Charlie%27s+Tropicana"
+   }
+  ]
+ }
+}
