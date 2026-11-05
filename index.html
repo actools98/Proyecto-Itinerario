@@ -11,9 +11,10 @@
 </head>
 <body>
 <header><div class="wrap">
-<h1>Guatemala, 4 al 15 de enero de 2027</h1>
-<p>Doce días desde Cali: Antigua, Acatenango, lago Atitlán, Semuc Champey, Flores y Tikal. Elige hotel por ciudad y el presupuesto se recalcula.</p>
+<h1 id="ttl">Guatemala 2027</h1>
+<p>Doce días desde Cali (cambia la fecha de inicio y todo se recalcula): Antigua, Acatenango, lago Atitlán, Semuc Champey, Flores y Tikal. Elige hotel por ciudad y el presupuesto se recalcula.</p>
 <div class="fx">
+<label>Inicio del viaje <input id="ini" type="date" style="width:9.5rem"></label>
 <label>Moneda <select id="cur"><option>COP</option><option>USD</option><option>GTQ</option></select></label>
 <label>COP por USD <input id="rCOP" type="number" step="1"></label>
 <label>GTQ por USD <input id="rGTQ" type="number" step="0.01"></label>
@@ -25,7 +26,6 @@
 <section id="s-hoteles" hidden></section>
 <section id="s-costos" hidden></section>
 <section id="s-reservas" hidden></section>
-<section id="s-seguridad" hidden></section>
 </div></main>
 <footer><div class="wrap" id="foot"></div></footer>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"></script>
