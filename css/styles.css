@@ -45,3 +45,17 @@ footer{color:var(--mut);font-size:.85rem;padding:0 1.2rem 2rem}
 .lk a,.lk button{padding:.35rem .75rem;border-radius:99px;background:#dcefe7;color:#0b5a43;text-decoration:none;font:600 .85rem 'Public Sans',sans-serif;border:0;cursor:pointer}
 .lk .pick{background:var(--jade);color:#fff}
 .h .t{display:block}
+.antes{display:grid;gap:.8rem;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));margin-bottom:1.2rem}
+.antes .box{margin:0}.antes li{margin:.3rem 0;font-size:.92rem}
+.src{font-size:.78rem;color:var(--mut);margin-right:.6rem}.src a{color:var(--mut)}
+.food{margin-top:.5rem;padding:.6rem .8rem;border-left:4px solid var(--lake);background:#e4eff3;border-radius:0 8px 8px 0;font-size:.92rem}
+.food p{margin:.2rem 0}
+.hp{height:0;background:center/cover;border-radius:8px;margin-bottom:.4rem}.hp.on{height:130px}
+.row small{color:var(--mut)}
+.pre{background:var(--card);border:1px solid var(--line);border-radius:10px;margin-bottom:1.2rem}
+.pre>summary{cursor:pointer;padding:.9rem 1rem;font:700 1.1rem 'Bricolage Grotesque',system-ui,sans-serif}
+.pre .in{padding:0 1rem 1rem}
+.pre .antes{display:block}
+.antes details.box{margin:.5rem 0;padding:.2rem 1rem}
+.antes details.box>summary{cursor:pointer;padding:.5rem 0;font:700 1.02rem 'Bricolage Grotesque',system-ui,sans-serif}
+.pre summary:focus-visible{outline:3px solid #fbbf24;outline-offset:2px}
