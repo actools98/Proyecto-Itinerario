@@ -1,97 +1,241 @@
 {
  "fx": {
   "COP": 3182.99,
-  "GTQ": 7.65,
+  "GTQ": 7.64,
   "fecha": "3 nov 2026",
-  "nota": "TRM del Banco de la República. El quetzal es una cifra aproximada, no verificada."
+  "nota": "Dólar: TRM del Banco de la República del 3 nov 2026. Quetzal: tasa de referencia del Banguat del 24 sep 2026 (Q7,63682 por dólar)."
  },
  "ruta": [
   {
-   "d": "1 · lun 4 ene",
    "l": "Antigua",
    "t": "Llegada y primera noche",
    "x": "Aeropuerto La Aurora y shuttle a Antigua (unas 2 h con tráfico). Cerro de la Cruz al atardecer.",
-   "tip": "Reserva ya el trek de Acatenango."
+   "tip": "Reserva ya el trek de Acatenango.",
+   "c": {
+    "x": "Almuerzo en un comedor de mercado: Q25 en promedio en Sacatepéquez. Cena: pepián en Los 3 Reyes (Q89) o pizza personal en Il Nonno (Q39).",
+    "s": [
+     {
+      "n": "Living in Guatemala, precios",
+      "u": "https://livinginguatemala.com/guides/guatemala-travel-budget-per-day/"
+     }
+    ]
+   },
+   "n": 1
   },
   {
-   "d": "2 · mar 5",
    "l": "Acatenango",
    "t": "Subida y campamento",
    "x": "4 a 6 h de ascenso. Noche en el campamento base.",
    "tip": "El Fuego se cerró en agosto de 2026 y Acatenango reabrió el 7 de agosto. Pide plan de reprogramación.",
-   "w": 1
+   "w": 1,
+   "c": {
+    "x": "Las comidas van incluidas en el paquete de Wicho & Charlie’s. Lleva frutos secos, chocolate y barras para el camino.",
+    "s": [
+     {
+      "n": "Paquete en Rezdy",
+      "u": "https://wichocharlies31.rezdy.com/581726/acatenango-in-8-person-shared-cabin-all-included?lang=zh"
+     },
+     {
+      "n": "Guía de Acatenango",
+      "u": "https://livinginguatemala.com/es/senderismo/acatenango/"
+     }
+    ]
+   },
+   "n": 2
   },
   {
-   "d": "3 · mié 6",
    "l": "Atitlán",
    "t": "Cima y traslado al lago",
    "x": "Amanecer a 3.976 m, bajada y shuttle de unas 3 h a Panajachel.",
-   "tip": "Duerme en Panajachel: el shuttle a Lanquín sale a las 07:30."
+   "tip": "Duerme en Panajachel: el shuttle a Lanquín sale a las 07:30.",
+   "c": {
+    "x": "Después de bajar, hay comedores en San José Calderas, en el camino de regreso. En Panajachel, desayuno o almuerzo en Deli Jasmín (comida fresca).",
+    "s": [
+     {
+      "n": "Guía de Acatenango",
+      "u": "https://livinginguatemala.com/es/senderismo/acatenango/"
+     },
+     {
+      "n": "Two Tickets Anywhere",
+      "u": "https://www.twoticketsanywhere.com/?p=2968"
+     }
+    ]
+   },
+   "n": 3
   },
   {
-   "d": "4 · jue 7",
    "l": "Atitlán",
    "t": "San Juan, San Pablo, San Pedro",
    "x": "Lancha entre pueblos, textiles y mirador. Tarde de kayak.",
-   "tip": "Lancha San Pedro–Pana: unos Q25. Casi nadie acepta tarjeta."
+   "tip": "Lancha San Pedro–Pana: unos Q25. Casi nadie acepta tarjeta.",
+   "c": {
+    "x": "En San Pedro: desayuno en Idea Connection (panadería, Q50 a 100), almuerzo de falafel en Pita Sabij (Q50 a 100) y tacos en Tacomex (3 por Q12, reseña de un cliente).",
+    "s": [
+     {
+      "n": "Bucket List Bri",
+      "u": "https://bucketlistbri.com/where-eat-san-pedro-atitlan/"
+     },
+     {
+      "n": "Wanderlog",
+      "u": "https://wanderlog.com/list/geoCategory/208472/restaurants"
+     }
+    ]
+   },
+   "n": 4
   },
   {
-   "d": "5 · vie 8",
    "l": "Lanquín",
    "t": "Viaje largo a Lanquín",
    "x": "9 a 10 h por Alta Verapaz.",
    "tip": "Confirma el horario del shuttle directo.",
-   "w": 1
+   "w": 1,
+   "c": {
+    "x": "Día de ruta: lleva efectivo para las paradas. Al llegar, cena en Comedor Shalom (comida típica por Q20 a 25) o Café Andrely, al lado (Q20 a 30).",
+    "s": [
+     {
+      "n": "Wikivoyage, Lanquín",
+      "u": "https://en.wikivoyage.org/wiki/Lanqu%C3%ADn"
+     },
+     {
+      "n": "Journeum",
+      "u": "https://www.journeum.com/dst/North%20America/Guatemala/Central%20Highlands/Lanquin/Eat"
+     }
+    ]
+   },
+   "n": 5
   },
   {
-   "d": "6 · sáb 9",
    "l": "Semuc Champey",
    "t": "Pozas y cuevas",
    "x": "Mirador, pozas turquesas y cuevas de K’anba.",
-   "tip": "Entrada Q50 a 100 según la fuente. Madruga."
+   "tip": "Entrada Q50 a 100 según la fuente. Madruga.",
+   "c": {
+    "x": "Casi no hay restaurantes cerca de las pozas, solo puestos en la entrada. Desayuna y almuerza en tu hospedaje; en Greengos reportan desayuno y almuerzo por Q25 a 30 y bufé por Q50 a 60 (reseña sin fecha).",
+    "s": [
+     {
+      "n": "Gecko Routes",
+      "u": "https://www.geckoroutes.com/?p=10085876"
+     },
+     {
+      "n": "Tales of a Backpacker",
+      "u": "https://talesofabackpacker.com/the-best-hostels-in-semuc-champey-guatemala/"
+     }
+    ]
+   },
+   "n": 6
   },
   {
-   "d": "7 · dom 10",
    "l": "Flores",
    "t": "Lanquín a Flores",
    "x": "Shuttle de unas 8 h (sale 08:00). Atardecer en el malecón.",
-   "tip": ""
+   "tip": "",
+   "c": {
+    "x": "Cena en Cool Beans (frijoles con arroz desde unos Q20) o en Raíces, con mesas sobre el agua. Sky Bar para el atardecer.",
+    "s": [
+     {
+      "n": "Fodor’s",
+      "u": "https://www.fodors.com/world/mexico-and-central-america/guatemala/el-peten/restaurants"
+     },
+     {
+      "n": "Sally Sees",
+      "u": "https://sallysees.com/restaurants-in-flores-guatemala/"
+     }
+    ]
+   },
+   "n": 7
   },
   {
-   "d": "8 · lun 11",
    "l": "Flores",
    "t": "Lago Petén Itzá",
    "x": "Lancha, saltos al agua o El Remate.",
-   "tip": ""
+   "tip": "",
+   "c": {
+    "x": "Desayuno en Maple & Tocino (waffles y desayuno típico), almuerzo en Maracuya (cierra los martes) y cena en Secret Garden, dentro de Los Amigos.",
+    "s": [
+     {
+      "n": "Sally Sees",
+      "u": "https://sallysees.com/restaurants-in-flores-guatemala/"
+     }
+    ]
+   },
+   "n": 8
   },
   {
-   "d": "9 · mar 12",
    "l": "Tikal",
    "t": "Parque Nacional Tikal",
    "x": "Gran Plaza, templos I, II y IV con guía.",
-   "tip": "Entrada Q150. El amanecer cuesta Q100 más."
+   "tip": "Entrada Q150. El amanecer cuesta Q100 más.",
+   "c": {
+    "x": "Cena temprano en Flores porque el amanecer exige madrugar. En el parque, Comedor Tikal frente a la entrada es el más económico; también está el restaurante del centro de visitantes. Se permite llevar agua y snacks.",
+    "s": [
+     {
+      "n": "Frommer’s",
+      "u": "https://www.frommers.com/destinations/tikal/restaurants/"
+     },
+     {
+      "n": "Culture Trip",
+      "u": "https://theculturetrip.com/central-america/guatemala/articles/how-to-explore-guatemalas-tikal-ruins-on-a-budget"
+     },
+     {
+      "n": "Living in Guatemala, Tikal",
+      "u": "https://livinginguatemala.com/es/tramites/conap-acceso-tikal-peten/"
+     }
+    ]
+   },
+   "n": 9
   },
   {
-   "d": "10 · mié 13",
    "l": "Antigua",
    "t": "Vuelo Flores–Guate",
    "x": "Vuelo de 1 h y shuttle a Antigua. Mejor que dormir junto al aeropuerto.",
    "tip": "TAG permite unas 20 lb de equipaje. Revisa la política.",
-   "w": 1
+   "w": 1,
+   "c": {
+    "x": "Desayuno en Maple & Tocino, que abre todo el día. En Antigua, cena de despedida con kak’ik (Q109) o pepián (Q89) en Los 3 Reyes.",
+    "s": [
+     {
+      "n": "Sally Sees",
+      "u": "https://sallysees.com/restaurants-in-flores-guatemala/"
+     },
+     {
+      "n": "Living in Guatemala, precios",
+      "u": "https://livinginguatemala.com/guides/guatemala-travel-budget-per-day/"
+     }
+    ]
+   },
+   "n": 10
   },
   {
-   "d": "11 · jue 14",
    "l": "Antigua",
    "t": "Día de margen",
    "x": "Café, fincas o Pacaya.",
-   "tip": "Amortigua imprevistos antes del vuelo."
+   "tip": "Amortigua imprevistos antes del vuelo.",
+   "c": {
+    "x": "Desayuno típico en Los 3 Reyes (Q55 a 68), café en Café Barista (cappuccino Q30) y pastas en Sobremesa (Q82 a 87).",
+    "s": [
+     {
+      "n": "Living in Guatemala, precios",
+      "u": "https://livinginguatemala.com/guides/guatemala-travel-budget-per-day/"
+     }
+    ]
+   },
+   "n": 11
   },
   {
-   "d": "12 · vie 15",
    "l": "Cali",
    "t": "Regreso",
    "x": "Elige vuelo de mediodía o tarde.",
-   "tip": "Antigua–aeropuerto: deja más de 3 h de margen."
+   "tip": "Antigua–aeropuerto: deja más de 3 h de margen.",
+   "c": {
+    "x": "Desayuna en Antigua antes de salir: un desayuno típico cuesta Q55 a 68.",
+    "s": [
+     {
+      "n": "Living in Guatemala, precios",
+      "u": "https://livinginguatemala.com/guides/guatemala-travel-budget-per-day/"
+     }
+    ]
+   },
+   "n": 12
   }
  ],
  "hoteles": [
@@ -101,39 +245,56 @@
    "opts": [
     {
      "k": "Hostal",
-     "nm": "Central Hostel",
-     "u": 11,
+     "nm": "Dormitorio (mediana de 24 hostales)",
+     "u": 11.07,
      "pp": 1,
-     "r": "",
-     "nt": "Dormitorio por persona. Rango reportado: US$11 a 25."
+     "hw": "https://www.hostelworld.com/hostels/north-america/guatemala/antigua/",
+     "s": {
+      "n": "Hostelworld vía Living in Guatemala",
+      "u": "https://livinginguatemala.com/guides/guatemala-travel-budget-per-day/",
+      "f": "24 sep 2026"
+     },
+     "nt": "Precio mínimo de dormitorio, no de un hostal en particular."
     },
     {
      "k": "Bajo",
      "nm": "Hotel Casa Carmina",
      "u": 47,
-     "r": "8,8",
-     "nt": "US$47 a 62 según fechas. Cuatro estrellas."
+     "s": {
+      "n": "Hotels.com",
+      "u": "https://at.hotels.com/ho378081",
+      "f": "15–16 jun 2026"
+     },
+     "nt": "US$58 con impuestos. Calificación 8,8."
     },
     {
      "k": "Medio",
      "nm": "Posada de Don Rodrigo",
-     "u": 165,
-     "r": "9,4",
-     "nt": "US$161 a 182. Centro histórico, jardín y restaurante."
+     "u": 161,
+     "s": {
+      "n": "Expedia",
+      "u": "https://www.expedia.com/Antigua-Guatemala-Hotels-Independent.0-0-d180589--bIndependent.Travel-Guide-Filter-Hotels",
+      "f": "sin fecha"
+     },
+     "nt": "Travelocity mostró US$182 en mayo de 2026. Calificación 9,4."
     },
     {
      "k": "Alto",
      "nm": "Hotel Museo Spa Casa Santo Domingo",
-     "u": 220,
-     "r": "9,2",
-     "nt": "US$198 a 249. Spa, piscina y museo. En enero de 2026 llegó a US$248."
+     "u": 248,
+     "s": {
+      "n": "Travelocity",
+      "u": "https://www.travelocity.com/Casa-Santo-Domingo-Museum-Hotels.0-l553248621554184987-0.Travel-Guide-Filter-Hotels",
+      "f": "4–5 ene 2026"
+     },
+     "nt": "US$303 con impuestos. Es una tarifa de enero de 2026, no de tu fecha."
     }
    ],
-   "in": "2027-01-04",
-   "out": "2027-01-05",
+   "in": 0,
+   "out": 1,
    "q": "Antigua Guatemala",
-   "in2": "2027-01-13",
-   "out2": "2027-01-15"
+   "in2": 9,
+   "out2": 11
   },
   {
    "c": "Lago Atitlán",
@@ -141,36 +302,53 @@
    "opts": [
     {
      "k": "Hostal",
-     "nm": "Hostel Zoola (San Pedro)",
-     "u": 15,
+     "nm": "Dormitorio (mediana de 10 hostales)",
+     "u": 9.89,
      "pp": 1,
-     "r": "",
-     "nt": "Dormitorio por persona. Rango: US$15 a 22."
+     "hw": "https://www.hostelworld.com/hostels/north-america/guatemala/panajachel/",
+     "s": {
+      "n": "Hostelworld vía Living in Guatemala",
+      "u": "https://livinginguatemala.com/guides/guatemala-travel-budget-per-day/",
+      "f": "24 sep 2026"
+     },
+     "nt": "Precio mínimo de dormitorio, no de un hostal en particular."
     },
     {
      "k": "Bajo",
      "nm": "Mikaso Hotel (San Pedro)",
      "u": 40,
-     "r": "8,6",
-     "nt": "Está en San Pedro: no sirve si sales a las 07:30 de Pana."
+     "s": {
+      "n": "Hoteles.com",
+      "u": "https://co.hoteles.com/re1746736/hoteles-en-lago-de-atitlan-guatemala/",
+      "f": "19–20 may 2026"
+     },
+     "nt": "US$49 con impuestos. Está en San Pedro y el shuttle a Lanquín sale de Panajachel a las 07:30."
     },
     {
      "k": "Medio",
      "nm": "Porta Hotel del Lago (Panajachel)",
      "u": 121,
-     "r": "",
-     "nt": "US$121 a 148 con impuestos. Cerca de los shuttles."
+     "s": {
+      "n": "Travelocity",
+      "u": "https://www.travelocity.com/Lake-Atitlan-Hotels-Romantic-Hotel.0-0-d6220357-tRomanticHotel.Travel-Guide-Filter-Hotels",
+      "f": "4–5 may 2026"
+     },
+     "nt": "US$148 con impuestos."
     },
     {
      "k": "Alto",
-     "nm": "Casa Palopó (Santa Catarina)",
+     "nm": "Casa Palopó (Santa Catarina Palopó)",
      "u": 257,
-     "r": "9,2",
-     "nt": "US$257 a 469. Relais & Châteaux. Lejos del muelle de Pana."
+     "s": {
+      "n": "Hoteles.com",
+      "u": "https://co.hoteles.com/re1746736/hoteles-en-lago-de-atitlan-guatemala/",
+      "f": "6–7 may 2026"
+     },
+     "nt": "US$339 con impuestos. Expedia mostró US$438 en otra fecha."
     }
    ],
-   "in": "2027-01-06",
-   "out": "2027-01-08",
+   "in": 2,
+   "out": 4,
    "q": "Lago Atitlán"
   },
   {
@@ -179,36 +357,53 @@
    "opts": [
     {
      "k": "Hostal",
-     "nm": "Zephyr River Lodge (dormitorio)",
-     "u": 19,
+     "nm": "Dormitorio (mediana de 3 hostales)",
+     "u": 15.69,
      "pp": 1,
-     "r": "",
-     "nt": "Dormitorio por persona. Reportan hasta US$28."
+     "hw": "https://www.hostelworld.com/hostels/north-america/guatemala/lanquin/",
+     "s": {
+      "n": "Hostelworld vía Living in Guatemala",
+      "u": "https://livinginguatemala.com/guides/guatemala-travel-budget-per-day/",
+      "f": "24 sep 2026"
+     },
+     "nt": "Precio mínimo de dormitorio, no de un hostal en particular."
     },
     {
      "k": "Bajo",
-     "nm": "Zephyr River Lodge (privada)",
-     "u": 27,
-     "r": "",
-     "nt": "Hay habitación familiar de unos US$127. Confirma el tipo."
+     "nm": "Hotel Las Marías de Semuc Champey",
+     "u": 39.83,
+     "s": {
+      "n": "Booking vía Flytap",
+      "u": "https://hotels.flytap.com/city/gt/lanquin.en-gb.html?aid=304142",
+      "f": "precio “desde”, sin fecha"
+     },
+     "nt": "En Chipoc, a 1,7 km del parque."
     },
     {
      "k": "Medio",
      "nm": "El Retiro Lodge",
      "u": 83,
-     "r": "8,5",
-     "nt": "Sobre el río, con tours. Está a unos 15 km de Semuc."
+     "s": {
+      "n": "Kayak",
+      "u": "https://www.kayak.com/Lanquin-Hotels-El-Retiro-Lanquin.2453085.ksp",
+      "f": "últimas 2 semanas, sin fecha"
+     },
+     "nt": "Es el precio mínimo y el máximo que registró Kayak."
     },
     {
      "k": "Alto",
-     "nm": "Hotel El Recreo Lanquín-Champey",
-     "u": 95,
-     "r": "",
-     "nt": "US$75 a 96. No encontré hotel de lujo verificado en la zona."
+     "nm": "Zephyr River Lodge",
+     "u": 127,
+     "s": {
+      "n": "Travelocity",
+      "u": "https://www.travelocity.com/Semuc-Champey-Hotels.d3000437244.Travel-Guide-Hotels",
+      "f": "2–3 mar 2026"
+     },
+     "nt": "Total con impuestos; no indica el tipo de habitación. No encontré hotel de lujo verificado en la zona."
     }
    ],
-   "in": "2027-01-08",
-   "out": "2027-01-10",
+   "in": 4,
+   "out": 6,
    "q": "Lanquín"
   },
   {
@@ -217,116 +412,54 @@
    "opts": [
     {
      "k": "Hostal",
-     "nm": "Los Amigos Hostel",
-     "u": 14,
+     "nm": "Dormitorio (mediana de 14 hostales)",
+     "u": 13.64,
      "pp": 1,
-     "r": "8,9",
-     "nt": "Dormitorio por persona (€10 a 15)."
+     "hw": "https://www.hostelworld.com/hostels/north-america/guatemala/flores/",
+     "s": {
+      "n": "Hostelworld vía Living in Guatemala",
+      "u": "https://livinginguatemala.com/guides/guatemala-travel-budget-per-day/",
+      "f": "24 sep 2026"
+     },
+     "nt": "Precio mínimo de dormitorio, no de un hostal en particular."
     },
     {
      "k": "Bajo",
      "nm": "Hotel del Patio",
      "u": 44,
-     "r": "8,6",
-     "nt": "US$41 a 55. Cerca del aeropuerto."
+     "s": {
+      "n": "Hotels.com",
+      "u": "https://www.hotels.com/de600730/hotels-flores-and-vicinity-guatemala/",
+      "f": "25–26 jun 2026"
+     },
+     "nt": "US$55 con impuestos. Calificación 8,6."
     },
     {
      "k": "Medio",
      "nm": "Hotel Casona de la Isla",
-     "u": 85,
-     "r": "8,8",
-     "nt": "US$81 a 100. En la isla, con piscina."
+     "u": 81,
+     "s": {
+      "n": "Hotels.com",
+      "u": "https://www.hotels.com/de600730/hotels-flores-and-vicinity-guatemala/",
+      "f": "10–11 jun 2026"
+     },
+     "nt": "US$99 con impuestos. Calificación 8,8."
     },
     {
      "k": "Alto",
      "nm": "Isla de Flores Hotel",
-     "u": 110,
-     "r": "9,4",
-     "nt": "US$99 a 130. Hay opciones más caras (Camino Real Tikal) sin precio verificado."
+     "u": 99,
+     "s": {
+      "n": "Hoteles.com",
+      "u": "https://es.hotels.com/ho746447936/aruma-hotel-el-remate-guatemala/",
+      "f": "14–15 jul 2026"
+     },
+     "nt": "US$120 con impuestos. Calificación 9,4."
     }
    ],
-   "in": "2027-01-10",
-   "out": "2027-01-13",
+   "in": 6,
+   "out": 9,
    "q": "Flores Guatemala"
-  }
- ],
- "fijos": [
-  {
-   "l": "Vuelo Cali–Guatemala (ida y vuelta, 1 escala)",
-   "cop": 1550000,
-   "nt": "Rango visto: 1,35 a 1,65 millones COP."
-  },
-  {
-   "l": "Vuelo Flores–Guatemala",
-   "usd": 100,
-   "nt": "US$80 a 120 por tramo."
-  },
-  {
-   "l": "Shuttles terrestres",
-   "usd": 120,
-   "nt": "Antigua–Pana, Pana–Lanquín, Lanquín–Flores."
-  },
-  {
-   "l": "Acatenango (trek base y entrada)",
-   "usd": 140,
-   "nt": "Sin el extra del Fuego."
-  },
-  {
-   "l": "Entradas y tours (Tikal, Semuc, cuevas)",
-   "usd": 90,
-   "nt": ""
-  },
-  {
-   "l": "Comida (12 días)",
-   "usd": 270,
-   "nt": "Cerca de US$22 al día."
-  },
-  {
-   "l": "Seguro de viaje",
-   "usd": 40,
-   "nt": ""
-  },
-  {
-   "l": "Lanchas, actividades e imprevistos",
-   "usd": 90,
-   "nt": ""
-  }
- ],
- "alertas": [
-  {
-   "w": 1,
-   "t": "EE. UU.: nivel 3, reconsiderar viaje",
-   "x": "Aviso vigente del 12 de marzo de 2026, por crimen y terrorismo. El nivel 4 aplica solo a el departamento de San Marcos, el de Huehuetenango, la zona 18 de Ciudad de Guatemala y Villa Nueva. Ninguno está en la ruta. San Marcos La Laguna (Atitlán) es otro lugar, en Sololá."
-  },
-  {
-   "w": 1,
-   "t": "Estado de sitio en enero de 2026",
-   "x": "Hubo ataques coordinados contra la policía en Ciudad de Guatemala. Revisa el estado actual antes de salir."
-  },
-  {
-   "w": 1,
-   "t": "Volcán de Fuego",
-   "x": "Nueva fase eruptiva desde el 3 de agosto de 2026. Acatenango reabrió el 7 de agosto, pero subir al Fuego no está garantizado."
-  },
-  {
-   "t": "Policía turística",
-   "x": "Marca 1500 o escribe por WhatsApp al +502 5188 1819. ASISTUR acompaña en Antigua, Atitlán y Tikal."
-  },
-  {
-   "t": "Vacuna de fiebre amarilla",
-   "x": "Colombia figura entre los países de riesgo de la OMS, así que conviene llevar el certificado. Aplícala al menos 10 días antes."
-  },
-  {
-   "t": "Malaria",
-   "x": "Consulta a un médico de viajes sobre profilaxis para Petén y Alta Verapaz."
-  },
-  {
-   "t": "Ingreso",
-   "x": "Los colombianos no necesitan visa de turismo según la lista de la Cancillería. Lleva tiquete de salida, reserva de hospedaje y prueba de solvencia. Llena la declaración jurada regional."
-  },
-  {
-   "t": "Consejos prácticos",
-   "x": "Usa transporte turístico, evita viajar de noche por carretera, lleva efectivo en quetzales y no exhibas objetos de valor."
   }
  ],
  "lugares": [
@@ -428,33 +561,18 @@
  "reservas": {
   "vuelos": [
    {
-    "t": "Cali a Ciudad de Guatemala (ida 4 ene, regreso 15 ene)",
-    "l": [
-     {
-      "n": "Google Flights",
-      "u": "https://www.google.com/travel/flights?q=Flights%20from%20CLO%20to%20GUA%20on%202027-01-04%20through%202027-01-15"
-     },
-     {
-      "n": "Skyscanner",
-      "u": "https://www.skyscanner.com.co/transporte/vuelos/clo/gua/270104/270115/"
-     },
-     {
-      "n": "Kayak",
-      "u": "https://www.kayak.com.co/flights/CLO-GUA/2027-01-04/2027-01-15"
-     }
-    ]
+    "t": "Cali a Ciudad de Guatemala",
+    "a": "CLO",
+    "b": "GUA",
+    "d1": 0,
+    "d2": 11
    },
    {
-    "t": "Flores a Ciudad de Guatemala (13 ene)",
+    "t": "Flores a Ciudad de Guatemala",
+    "a": "FRS",
+    "b": "GUA",
+    "d1": 9,
     "l": [
-     {
-      "n": "Google Flights",
-      "u": "https://www.google.com/travel/flights?q=Flights%20from%20FRS%20to%20GUA%20on%202027-01-13"
-     },
-     {
-      "n": "Kayak",
-      "u": "https://www.kayak.com.co/flights/FRS-GUA/2027-01-13"
-     },
      {
       "n": "Guía de TAG Airlines",
       "u": "https://livinginguatemala.com/es/transporte/tag-airlines-vuelos-nacionales/"
@@ -486,5 +604,266 @@
     "u": "https://www.google.com/search?q=Acatenango+overnight+tour+Wicho+Charlie%27s+Tropicana"
    }
   ]
- }
+ },
+ "presupuesto": [
+  {
+   "l": "Vuelo Cali–Guatemala, ida y vuelta",
+   "cop": 1614654,
+   "n": "Tarifa “desde” de Copa para 19–23 mar 2027. No hay cotización publicada para las fechas del viaje.",
+   "s": [
+    {
+     "n": "Copa Airlines",
+     "u": "https://www.copaair.com/es-co/vuelos-desde-cali-a-ciudad-de-guatemala",
+     "f": "vista en nov 2026"
+    }
+   ]
+  },
+  {
+   "l": "Vuelo Flores–Guatemala",
+   "usd": 98,
+   "n": "Precio “desde”.",
+   "s": [
+    {
+     "n": "Expedia",
+     "u": "https://www.expedia.com/lp/flights/frs/gua/flores-to-guatemala-city"
+    }
+   ]
+  },
+  {
+   "l": "Shuttles aeropuerto–Antigua (3 trayectos × US$15)",
+   "usd": 45,
+   "n": "Llegada, regreso desde Flores y salida final.",
+   "s": [
+    {
+     "n": "Living in Guatemala, presupuesto diario",
+     "u": "https://livinginguatemala.com/guides/guatemala-travel-budget-per-day/",
+     "f": "precios del 24 sep 2026"
+    }
+   ]
+  },
+  {
+   "l": "Shuttle Antigua–Panajachel",
+   "usd": 25,
+   "n": "",
+   "s": [
+    {
+     "n": "Living in Guatemala, presupuesto diario",
+     "u": "https://livinginguatemala.com/guides/guatemala-travel-budget-per-day/",
+     "f": "precios del 24 sep 2026"
+    }
+   ]
+  },
+  {
+   "l": "Shuttle Panajachel–Lanquín",
+   "usd": 40,
+   "n": "AtitlanTour. Otros vendedores: US$45 y US$50.",
+   "s": [
+    {
+     "n": "Living in Guatemala, Atitlán–Semuc",
+     "u": "https://livinginguatemala.com/es/transporte/lago-atitlan-a-semuc-champey/",
+     "f": "24 sep 2026"
+    }
+   ]
+  },
+  {
+   "l": "Shuttle Lanquín–Flores",
+   "usd": 40,
+   "n": "AtitlanTour y Guatemala Transportation. Adrenalina: US$45.",
+   "s": [
+    {
+     "n": "Living in Guatemala, Lanquín–Río Dulce",
+     "u": "https://livinginguatemala.com/es/transporte/lanquin-a-rio-dulce/",
+     "f": "3 oct 2026"
+    }
+   ]
+  },
+  {
+   "l": "Acatenango con Wicho & Charlie’s (cabina compartida, todo incluido)",
+   "usd": 129,
+   "n": "Precio “desde”. Incluye comidas y transporte desde Antigua.",
+   "s": [
+    {
+     "n": "Wicho & Charlie’s en Rezdy",
+     "u": "https://wichocharlies31.rezdy.com/581726/acatenango-in-8-person-shared-cabin-all-included?lang=zh"
+    }
+   ]
+  },
+  {
+   "l": "Entrada al parque de Acatenango",
+   "gtq": 100,
+   "n": "Algunos operadores la incluyen: confírmalo al reservar.",
+   "s": [
+    {
+     "n": "Living in Guatemala, Acatenango",
+     "u": "https://livinginguatemala.com/es/senderismo/acatenango/",
+     "f": "tarifa verificada jul 2026"
+    }
+   ]
+  },
+  {
+   "l": "Tikal: entrada Q150 y boleto de amanecer Q100",
+   "gtq": 250,
+   "n": "",
+   "s": [
+    {
+     "n": "Living in Guatemala, presupuesto diario",
+     "u": "https://livinginguatemala.com/guides/guatemala-travel-budget-per-day/",
+     "f": "precios del 24 sep 2026"
+    }
+   ]
+  },
+  {
+   "l": "Transporte Flores–Tikal, ida y vuelta",
+   "gtq": 90,
+   "n": "Rango publicado: Q90 a 200.",
+   "s": [
+    {
+     "n": "Living in Guatemala, Guate–Flores",
+     "u": "https://livinginguatemala.com/es/transporte/ciudad-de-guatemala-a-flores-tikal/"
+    }
+   ]
+  },
+  {
+   "l": "Semuc Champey: entrada Q50, cuevas K’anba Q100, traslado Q50",
+   "gtq": 200,
+   "n": "La entrada es Q50 según Publinews; Living in Guatemala dice Q100. Lleva Q100 por si acaso.",
+   "s": [
+    {
+     "n": "Publinews",
+     "u": "https://www.publinews.gt/turismo/2026/08/28/10-cosas-que-debes-saber-antes-de-visitar-semuc-champey-en-alta-verapaz/",
+     "f": "28 ago 2026"
+    },
+    {
+     "n": "Greengos vía Living in Guatemala",
+     "u": "https://livinginguatemala.com/activities/semuc-champey-tour-from-lanquin-or-diy/",
+     "f": "25 oct 2026"
+    },
+    {
+     "n": "Guate365",
+     "u": "https://guate365.org/noticias/semuc-champey-2026-how-to-get-there-what-to-expect-complete-visitor-guide"
+    }
+   ]
+  },
+  {
+   "l": "Lanchas del lago (4 tramos × Q25)",
+   "gtq": 100,
+   "n": "La tarifa pública a Santiago Atitlán es de Q25 a 30.",
+   "s": [
+    {
+     "n": "Living in Guatemala, presupuesto diario",
+     "u": "https://livinginguatemala.com/guides/guatemala-travel-budget-per-day/",
+     "f": "precios del 24 sep 2026"
+    }
+   ]
+  },
+  {
+   "l": "Comida: 11 días × Q172",
+   "gtq": 1892,
+   "n": "Q172 es el “Día A” (desayuno, almuerzo, cena y agua en Antigua). El día 2 va incluido en el tour de Acatenango.",
+   "s": [
+    {
+     "n": "Living in Guatemala, presupuesto diario",
+     "u": "https://livinginguatemala.com/guides/guatemala-travel-budget-per-day/",
+     "f": "precios del 24 sep 2026"
+    }
+   ]
+  }
+ ],
+ "nota_no_incluido": "No incluye seguro de viaje, retiros de cajero, propinas ni compras: no encontré fuente para ellos. Tampoco incluye la caminata extra al Fuego, que sigue prohibida.",
+ "antes": [
+  {
+   "t": "Fiebre amarilla",
+   "l": [
+    "Colombia está en la lista de países de riesgo de la OMS, así que conviene llevar el certificado internacional de vacunación.",
+    "Es una dosis y se aplica al menos 10 días antes del viaje.",
+    "Confirma el requisito con tu aerolínea: el Departamento de Estado de EE. UU. dice que no exige vacunas a sus ciudadanos."
+   ],
+   "s": [
+    {
+     "n": "Living in Guatemala, vacunas",
+     "u": "https://livinginguatemala.com/es/guias/vacunas-requeridas-guatemala/"
+    }
+   ]
+  },
+  {
+   "t": "Seguridad",
+   "w": 1,
+   "l": [
+    "EE. UU. mantiene a Guatemala en nivel 3 (reconsiderar viaje) desde el 12 de marzo de 2026.",
+    "El nivel 4 aplica a San Marcos, Huehuetenango, la zona 18 de Ciudad de Guatemala y Villa Nueva. Ninguno está en la ruta (San Marcos La Laguna, en Atitlán, es otro lugar).",
+    "Su personal puede viajar a Antigua, Atitlán y Tikal, pero no usa taxis blancos ni buses públicos y evita manejar de noche fuera de la capital.",
+    "En enero de 2026 hubo ataques coordinados contra la policía en Ciudad de Guatemala. Revisa las noticias antes de salir."
+   ],
+   "s": [
+    {
+     "n": "Departamento de Estado",
+     "u": "https://travel.state.gov/en/international-travel/travel-advisories/guatemala.html"
+    },
+    {
+     "n": "Fox News, 20 ene 2026",
+     "u": "https://www.fox5atlanta.com/news/travel-security-alert-issued-tropical-destination-after-major-gangs-attack-police"
+    }
+   ]
+  },
+  {
+   "t": "Volcán de Fuego: fases y alertas",
+   "w": 1,
+   "l": [
+    "Actividad habitual: 5 a 10 explosiones por hora y columnas de ceniza de hasta 4.500 m (INSIVUMEH, 7 ago 2026).",
+    "Fase eruptiva intensa: flujos piroclásticos de 5 a 7 km, evacuaciones y cierre de carreteras. La última empezó el 3 de agosto de 2026; antes hubo otras en febrero de 2026 y junio de 2025.",
+    "Alertas de CONRED: la anaranjada es el segundo nivel más alto, antes de la roja. El 3 de agosto declaró la anaranjada y el 4 hubo alerta roja en Escuintla, Chimaltenango y Sacatepéquez.",
+    "El acceso a Acatenango y Fuego se cerró el 4 de agosto. Acatenango reabrió el 7 de agosto; subir al Fuego sigue prohibido.",
+    "El paroxismo terminó el 6 de agosto y el volcán seguía activo en octubre de 2026. Revisa los boletines 48 horas antes y reserva con opción de reprogramar."
+   ],
+   "s": [
+    {
+     "n": "Prensa Libre",
+     "u": "https://www.prensalibre.com/?p=25797939"
+    },
+    {
+     "n": "Revista EyN, 7 ago",
+     "u": "https://www.revistaeyn.com/centroamericaymundo/guatemala-normalidad-en-la-actividad-turistica-tras-descenso-de-actividad-del-volcan-de-fuego-LH31636937"
+    },
+    {
+     "n": "Emisoras Unidas, alerta roja",
+     "u": "https://emisorasunidas.com/nacional/2026/08/04/alerta-roja-departamental-escuintla-volcan-de-fuego/"
+    },
+    {
+     "n": "El Salvador.com, reapertura",
+     "u": "https://www.elsalvador.com/?p=1287218"
+    },
+    {
+     "n": "Volcano Discovery",
+     "u": "https://volcanodb.com/fuego-volcano"
+    },
+    {
+     "n": "Travelers Today",
+     "u": "https://www.travelerstoday.com/articles/60743/20260804/fuego-volcano-bans-all-hikes-near-antigua-eruption-forces-1700-evacuations.htm"
+    }
+   ]
+  },
+  {
+   "t": "Teléfonos útiles",
+   "l": [
+    "Guatemala no usa el 911. Policía Nacional Civil: <a href=\"tel:110\">110</a> o 120.",
+    "Asistencia al turista y Policía Turística: <a href=\"tel:1500\">1500</a>, con operadores en inglés. También +502 2290-2810 o WhatsApp +502 5188-1819.",
+    "Ambulancia: Bomberos Voluntarios <a href=\"tel:122\">122</a> (fuera de la capital), Bomberos Municipales <a href=\"tel:123\">123</a> y Cruz Roja <a href=\"tel:125\">125</a>.",
+    "CONRED (desastres): <a href=\"tel:119\">119</a>. Provial (carreteras): 1520."
+   ],
+   "s": [
+    {
+     "n": "Living in Guatemala, emergencias",
+     "u": "https://livinginguatemala.com/emergency/"
+    },
+    {
+     "n": "AGN",
+     "u": "https://agn.gt/?p=428479"
+    },
+    {
+     "n": "Departamento de Estado",
+     "u": "https://travel.state.gov/en/international-travel/travel-advisories/guatemala.html"
+    }
+   ]
+  }
+ ]
 }
